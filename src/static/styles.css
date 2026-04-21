@@ -515,7 +515,13 @@ footer {
   align-items: center;
   justify-content: center;
 }
-
+.announcement-banner {
+  background-color: var(--success);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
 .search-box button:hover {
   background-color: var(--primary-light);
 }
